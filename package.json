@@ -1,0 +1,24 @@
+{
+  "name": "captaincomicsback",
+  "version": "1.0.0",
+  "description": "![WildCodeSchool](https://avatars.githubusercontent.com/u/8874047?s=100)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban-86/Captain-Comics-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban-86/Captain-Comics-Backend/issues"
+  },
+  "homepage": "https://github.com/Esteban-86/Captain-Comics-Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -11,7 +11,7 @@
 
 - Import database
 ```shell
-mysql -u user -p database < db/captaincomics.sql
+mysql -u user -p database < db/captain-comics.sql
 ```
 
 - Install Project
